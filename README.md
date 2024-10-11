@@ -1,15 +1,15 @@
-## Hi, I'm Sebastian! 👋
+# Hi, I'm Sebastian! 👋
 
-# 💫 About Me:
+## 💫 About Me:
 I am a 4th Computer Science and Engineering student at the University of Iowa.
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-sdparecattil@gmail.com-red)](mailto:sdparecattil@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sparecattil)
 
 
-# 💻 Tech Stack:
+## 💻 Languages & Frameworks:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

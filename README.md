@@ -5,7 +5,9 @@ I am a 4th Computer Science and Engineering student at the University of Iowa.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sparecattil) 
+[![Gmail](https://img.shields.io/badge/Gmail-sdparecattil@gmail.com-red)](mailto:sdparecattil@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sparecattil)
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)

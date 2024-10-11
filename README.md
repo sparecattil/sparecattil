@@ -38,7 +38,7 @@ I am a 4th Computer Science and Engineering student at the University of Iowa.
 ## Top Projects
 <div align="center">
   <h3>Dino Dash - Inspired by The Dinosaur Game</h3>
-  <img src="https://github.com/user-attachments/assets/e138cff7-552a-4f10-a442-7bb4d3ab342d" width="300" />
+  <img src="https://github.com/user-attachments/assets/a92a6dab-eff1-47c9-b34f-cbc688ee55b7" width="300" />
   <br />
   <a href="https://github.com/sparecattil/Dino-Dash">Dino-Dash</a>
 </div>

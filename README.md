@@ -35,4 +35,13 @@ I am a 4th Computer Science and Engineering student at the University of Iowa.
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-[Dino-Dash](https://github.com/sparecattil/Dino-Dash)
+## Top Projects
+### Dino Dash - Inspired by The Dinosaur Game
+<div style="display: inline-block; padding-left: 100px;">
+  <img src="https://github.com/user-attachments/assets/e138cff7-552a-4f10-a442-7bb4d3ab342d" width="300" />
+  <br />
+  <a href="https://github.com/sparecattil/Dino-Dash">Dino-Dash</a>
+</div>
+
+
+

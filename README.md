@@ -36,12 +36,31 @@ I am a 4th Computer Science and Engineering student at the University of Iowa.
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ## Top Projects
-<div align="center">
-  <h3>Dino Dash - Inspired by The Dinosaur Game</h3>
-  <img src="https://github.com/user-attachments/assets/a92a6dab-eff1-47c9-b34f-cbc688ee55b7" width="300" />
-  <br />
-  <a href="https://github.com/sparecattil/Dino-Dash">Dino-Dash</a>
-</div>
+## Top Projects
+<table>
+  <tr>
+    <td align="center">
+      <h3>RPS-Online</h3>
+      <img src="https://github.com/user-attachments/assets/87b11fa5-0a03-4436-b5ec-71549bb63293" width="300" />
+      <br />
+      <a href="https://github.com/sparecattil/RPS-Online">RPS-Online</a>
+    </td>
+    <td align="center">
+      <h3>Thermo-Sense</h3>
+      <img src="https://github.com/user-attachments/assets/6403fef4-9db7-42f4-915d-05ddaa8a624f" width="300" />
+      <br />
+      <a href="https://github.com/sparecattil/Thermo-Sense">Thermo-Sense</a>
+    </td>
+    <td align="center">
+      <h3>Dino-Dash</h3>
+      <img src="https://github.com/user-attachments/assets/a92a6dab-eff1-47c9-b34f-cbc688ee55b7" width="200" />
+      <br />
+      <a href="https://github.com/sparecattil/Dino-Dash">Dino-Dash</a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 

@@ -39,25 +39,26 @@ I am a 4th Computer Science and Engineering student at the University of Iowa.
 <table>
   <tr>
     <td align="center">
-      <h3>RPS-Online</h3>
       <a href="https://github.com/sparecattil/RPS-Online">
         <img src="https://github.com/user-attachments/assets/87b11fa5-0a03-4436-b5ec-71549bb63293" width="300" />
       </a>
+      <h3>RPS-Online: Link Available Soon</h3>
     </td>
     <td align="center">
-      <h3>Thermo-Sense</h3>
       <a href="https://github.com/sparecattil/Thermo-Sense">
         <img src="https://github.com/user-attachments/assets/6403fef4-9db7-42f4-915d-05ddaa8a624f" width="300" />
       </a>
+      <h3>Thermo-Sense</h3>
     </td>
     <td align="center">
-      <h3>Dino-Dash</h3>
       <a href="https://github.com/sparecattil/Dino-Dash">
         <img src="https://github.com/user-attachments/assets/a92a6dab-eff1-47c9-b34f-cbc688ee55b7" width="200" />
       </a>
+      <h3>Dino-Dash</h3>
     </td>
   </tr>
 </table>
+
 
 
 

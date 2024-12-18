@@ -5,9 +5,15 @@ I am a 4th year student at the University of Iowa majoring in Computer Science a
 
 #
 
-### 📬 Connect with me:
-[![Gmail](https://img.shields.io/badge/Gmail-sdparecattil@gmail.com-red)](mailto:sdparecattil@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sparecattil)
+### 📬 Connect with Me:
+<div align="left">
+  <a href="mailto:sdparecattil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sparecattil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 #
 

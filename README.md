@@ -1,10 +1,5 @@
 # Hi, I'm Sebastian! 👋
 
-### 📖 About Me:
-I am a 4th year student at the University of Iowa majoring in Computer Science and Engineering with a focus on Machine Learning. Through my undergraduate coursework and professional experiences, I have developed strong technical skills in software engineering and machine learning, complemented by effective communication and interpersonal abilities. I am passionate about continuous learning and eager to contribute to innovative solutions while growing as a professional.
-
-#
-
 ### 📬 Connect with Me:
 <div align="left">
   <a href="mailto:sdparecattil@gmail.com">
@@ -14,6 +9,15 @@ I am a 4th year student at the University of Iowa majoring in Computer Science a
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+<br>
+
+<details>
+  <summary><strong>📖 About Me</strong></summary>
+  <p>
+    I am a 4th year student at the University of Iowa majoring in Computer Science and Engineering with a focus on Machine Learning. Through my undergraduate coursework and professional experiences, I have developed strong technical skills in software engineering and        machine learning, complemented by effective communication and interpersonal abilities. I am passionate about continuous learning and eager to contribute to innovative solutions while growing as a professional.
+  </p>
+</details>
 
 #
 

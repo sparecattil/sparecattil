@@ -10,7 +10,6 @@ I am a 4th year student at the University of Iowa majoring in Computer Science a
 
 
 ## 💻 Languages & Frameworks:
-## 💻 Languages & Frameworks:
 <table>
   <tr>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><br></td>
@@ -21,10 +20,10 @@ I am a 4th year student at the University of Iowa majoring in Computer Science a
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /><br></td>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /><br></td>
-  </tr>
-  <tr>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" /><br></td>
+  </tr>
+  <tr>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" /><br></td>

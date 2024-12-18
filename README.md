@@ -23,7 +23,7 @@
 
 #
 
-### 🛠️ Languages & Frameworks:
+### ⚙️ Languages & Frameworks:
 <table>
   <tr>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><br></td>
@@ -55,34 +55,28 @@
 
 #
 
-### Top Projects
+### 🌟 Top Projects
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/sparecattil/RPS-Online">
-        <img src="https://github.com/user-attachments/assets/87b11fa5-0a03-4436-b5ec-71549bb63293" width="300" />
+        <img src="https://github.com/user-attachments/assets/87b11fa5-0a03-4436-b5ec-71549bb63293" width="400" />
       </a>
       <h3>RPS-Online: Link Available Soon</h3>
     </td>
     <td align="center">
       <a href="https://github.com/sparecattil/Thermo-Sense">
-        <img src="https://github.com/user-attachments/assets/6403fef4-9db7-42f4-915d-05ddaa8a624f" width="300" />
+        <img src="https://github.com/user-attachments/assets/6403fef4-9db7-42f4-915d-05ddaa8a624f" width="400" />
       </a>
       <h3>Thermo-Sense</h3>
     </td>
     <td align="center">
       <a href="https://github.com/sparecattil/Dino-Dash">
-        <img src="https://github.com/user-attachments/assets/a92a6dab-eff1-47c9-b34f-cbc688ee55b7" width="200" />
+        <img src="https://github.com/user-attachments/assets/eeff3720-5271-42d8-8b99-a201f667553c" width="400" />
       </a>
       <h3>Dino-Dash</h3>
     </td>
   </tr>
 </table>
-
-
-
-
-
-
 
 

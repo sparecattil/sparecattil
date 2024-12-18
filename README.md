@@ -1,4 +1,6 @@
-# Hi, I'm Sebastian! 👋
+# 🚀 Sebastian Parecattil
+
+**`Software Engineer & CSE University Student`**
 
 ### 📬 Connect with Me:
 <div align="left">

@@ -1,15 +1,17 @@
 # Hi, I'm Sebastian! 👋
 
-## 💫 About Me:
+### 📖 About Me:
 I am a 4th year student at the University of Iowa majoring in Computer Science and Engineering with a focus on Machine Learning. Through my undergraduate coursework and professional experiences, I have developed strong technical skills in software engineering and machine learning, complemented by effective communication and interpersonal abilities. I am passionate about continuous learning and eager to contribute to innovative solutions while growing as a professional.
 
+#
 
-## 🌐 Connect with me:
+### 📬 Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-sdparecattil@gmail.com-red)](mailto:sdparecattil@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sparecattil)
 
+#
 
-## 💻 Languages & Frameworks:
+### 🛠️ Languages & Frameworks:
 <table>
   <tr>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><br></td>
@@ -26,7 +28,7 @@ I am a 4th year student at the University of Iowa majoring in Computer Science a
   </tr>
   <tr>
     <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /><br></td>
-    <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" /><br></td>
+    <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /><br></td>
@@ -39,10 +41,9 @@ I am a 4th year student at the University of Iowa majoring in Computer Science a
   </tr>
 </table>
 
+#
 
-
-
-## Top Projects
+### Top Projects
 <table>
   <tr>
     <td align="center">

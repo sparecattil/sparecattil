@@ -63,21 +63,21 @@
         <img src="https://github.com/user-attachments/assets/35d684c3-3218-461e-99a6-098e14ba36f4" width="300" />
       </a>
       <h3>SkyFare</h3>
-      <p>🛠️ JavaScript, Python, HTML/CSS, Node.js, MongoDB, Redis</p>
+      <p>🛠️ JavaScript, Python, MongoDB, Redis, Node.js</p>
     </td>
     <td align="center">
       <a href="https://github.com/sparecattil/RPS-Online">
         <img src="https://github.com/user-attachments/assets/87b11fa5-0a03-4436-b5ec-71549bb63293" width="300" />
       </a>
       <h3>RPS-Online: Link Available Soon</h3>
-      <p>🛠️ JavaScript, HTML/CSS, Node.js, Firebase</p>
+      <p>🛠️ JavaScript, Socket.IO, Raspberry Pi, Glitch, Node.js, Firebase</p>
     </td>
     <td align="center">
       <a href="https://github.com/sparecattil/Thermo-Sense">
         <img src="https://github.com/user-attachments/assets/6403fef4-9db7-42f4-915d-05ddaa8a624f" width="300" />
       </a>
       <h3>Thermo-Sense</h3>
-      <p>🛠️ C++, JavaScript, HTML/CSS, Firebase</p>
+      <p>🛠️ C++, JavaScript, ESP32, Glitch, Firebase</p>
     </td>
   </tr>
   <tr>
@@ -100,7 +100,7 @@
         <img src="https://github.com/user-attachments/assets/681e9fe8-a088-4dd2-ad54-92902608ae01" width="300" />
       </a>
       <h3>Garage-Door-Sensor</h3>
-      <p>🛠️ C++, MATLAB, JavaScript, Node.js, Firebase</p>
+      <p>🛠️ Arduino, MATLAB, C++, JavaScript, Node.js, Firebase</p>
     </td>
   </tr>
 </table>

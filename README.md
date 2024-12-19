@@ -100,7 +100,7 @@
         <img src="https://github.com/user-attachments/assets/681e9fe8-a088-4dd2-ad54-92902608ae01" width="300" />
       </a>
       <h3>Garage-Door-Sensor</h3>
-      <p>🛠️ C++, MATLAB, Node.js, Firebase</p>
+      <p>🛠️ C++, MATLAB, JavaScript, Node.js, Firebase</p>
     </td>
   </tr>
 </table>

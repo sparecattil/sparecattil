@@ -97,8 +97,15 @@
       <h3>Garage-Door-Sensor</h3>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sparecattil/Wordle">
+        <img src="https://github.com/user-attachments/assets/0a90d556-d4d7-4f87-87b5-0e14672c0cc6" width="300" />
+      </a>
+      <h3>Wordle</h3>
+    </td>
+  </tr>
 </table>
-
 
 
 

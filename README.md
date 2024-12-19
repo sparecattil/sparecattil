@@ -63,7 +63,7 @@
         <img src="https://github.com/user-attachments/assets/35d684c3-3218-461e-99a6-098e14ba36f4" width="300" />
       </a>
       <h3>SkyFare</h3>
-      <p>🛠️ JavaScript, Python, HTML/CSS, Node.js</p><p>MongoDB, Redis</p>
+      <p>🛠️ JavaScript, Python, HTML/CSS, Node.js, MongoDB, Redis</p>
     </td>
     <td align="center">
       <a href="https://github.com/sparecattil/RPS-Online">

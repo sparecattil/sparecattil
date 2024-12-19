@@ -59,6 +59,12 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/sparecattil/SkyFare">
+        <img src="https://github.com/user-attachments/assets/35d684c3-3218-461e-99a6-098e14ba36f4" width="400" />
+      </a>
+      <h3>SkyFare</h3>
+    </td>
+    <td align="center">
       <a href="https://github.com/sparecattil/RPS-Online">
         <img src="https://github.com/user-attachments/assets/87b11fa5-0a03-4436-b5ec-71549bb63293" width="400" />
       </a>

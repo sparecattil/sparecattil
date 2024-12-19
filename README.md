@@ -76,6 +76,12 @@
       </a>
       <h3>Dino-Dash</h3>
     </td>
+    <td align="center">
+      <a href="https://github.com/sparecattil/SWD-Hackathon-2023">
+        <img src="https://github.com/user-attachments/assets/f59cb17b-5c33-4318-9eb3-b9b3e26f55d5" width="400" />
+      </a>
+      <h3>SWD-Hackathon</h3>
+    </td>
   </tr>
 </table>
 

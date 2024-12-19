@@ -60,35 +60,45 @@
   <tr>
     <td align="center">
       <a href="https://github.com/sparecattil/SkyFare">
-        <img src="https://github.com/user-attachments/assets/35d684c3-3218-461e-99a6-098e14ba36f4" width="400" />
+        <img src="https://github.com/user-attachments/assets/35d684c3-3218-461e-99a6-098e14ba36f4" width="300" />
       </a>
       <h3>SkyFare</h3>
     </td>
     <td align="center">
       <a href="https://github.com/sparecattil/RPS-Online">
-        <img src="https://github.com/user-attachments/assets/87b11fa5-0a03-4436-b5ec-71549bb63293" width="400" />
+        <img src="https://github.com/user-attachments/assets/87b11fa5-0a03-4436-b5ec-71549bb63293" width="300" />
       </a>
       <h3>RPS-Online: Link Available Soon</h3>
     </td>
     <td align="center">
       <a href="https://github.com/sparecattil/Thermo-Sense">
-        <img src="https://github.com/user-attachments/assets/6403fef4-9db7-42f4-915d-05ddaa8a624f" width="400" />
+        <img src="https://github.com/user-attachments/assets/6403fef4-9db7-42f4-915d-05ddaa8a624f" width="300" />
       </a>
       <h3>Thermo-Sense</h3>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/sparecattil/Dino-Dash">
-        <img src="https://github.com/user-attachments/assets/eeff3720-5271-42d8-8b99-a201f667553c" width="400" />
+        <img src="https://github.com/user-attachments/assets/eeff3720-5271-42d8-8b99-a201f667553c" width="300" />
       </a>
       <h3>Dino-Dash</h3>
     </td>
     <td align="center">
       <a href="https://github.com/sparecattil/SWD-Hackathon-2023">
-        <img src="https://github.com/user-attachments/assets/f59cb17b-5c33-4318-9eb3-b9b3e26f55d5" width="400" />
+        <img src="https://github.com/user-attachments/assets/f59cb17b-5c33-4318-9eb3-b9b3e26f55d5" width="300" />
       </a>
       <h3>SWD-Hackathon</h3>
     </td>
+    <td align="center">
+      <a href="https://github.com/sparecattil/Garage-Door-Sensor">
+        <img src="https://github.com/user-attachments/assets/681e9fe8-a088-4dd2-ad54-92902608ae01" width="300" />
+      </a>
+      <h3>Garage-Door-Sensor</h3>
+    </td>
   </tr>
 </table>
+
+
 
 

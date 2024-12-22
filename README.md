@@ -1,4 +1,4 @@
-# 🚀 Sebastian Parecattil
+# 🚀 Hi, I'm Sebastian Parecattil 👋
 
 **`Software Engineer & CSE University Student`**
 

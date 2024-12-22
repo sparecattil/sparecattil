@@ -86,7 +86,7 @@
         <img src="https://github.com/user-attachments/assets/eeff3720-5271-42d8-8b99-a201f667553c" width="300" />
       </a>
       <h3>Dino-Dash</h3>
-      <p>🛠️ Embedded C, I2C Communication</p>
+      <p>🛠️ Embedded C, I2C</p>
     </td>
     <td align="center">
       <a href="https://github.com/sparecattil/SWD-Hackathon-2023">

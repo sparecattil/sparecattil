@@ -69,7 +69,7 @@
       <a href="https://github.com/sparecattil/RPS-Online">
         <img src="https://github.com/user-attachments/assets/87b11fa5-0a03-4436-b5ec-71549bb63293" width="300" />
       </a>
-      <h3>RPS-Online: Link Available Soon</h3>
+      <h3>RPS-Online</h3>
       <p>🛠️ JavaScript, Socket.IO, Raspberry Pi, Glitch, Node.js, Firebase</p>
     </td>
     <td align="center">

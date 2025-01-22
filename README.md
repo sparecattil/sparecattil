@@ -62,7 +62,7 @@
       <a href="https://github.com/sparecattil/SkyFare">
         <img src="https://github.com/user-attachments/assets/35d684c3-3218-461e-99a6-098e14ba36f4" width="300" />
       </a>
-      <h3>SkyFare</h3>
+      <h3>Sky-Fare</h3>
       <p>🛠️ JavaScript, Python, MongoDB, Redis, Node.js</p>
     </td>
     <td align="center">

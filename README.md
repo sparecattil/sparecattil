@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Sebastian Parecattil 👋
 
-**`Software Engineer | University of Iowa Computer Science and Engineering Alumi`**
+**`Software Engineer | University of Iowa Computer Science and Engineering Alumni`**
 
 ### 📬 Connect with Me:
 <div align="left">

@@ -23,7 +23,7 @@
 
 #
 
-### ⚙️ Languages & Frameworks:
+### ⚙️ Languages & Developer Tools:
 <table>
   <tr>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><br></td>
@@ -35,21 +35,32 @@
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><br></td>
+    <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><br></td>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/subversion/subversion-original.svg" /><br></td>
-    <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" /><br></td>
   </tr>
   <tr>
     <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" /><br></td>
-    <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /><br></td>
-    <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" /><br></td>
-    <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /><br></td>
+    <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /><br></td>
+    <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /><br></td>
+    <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /><br></td>
+    <td align="center" width="80px"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg" /><br></td>
+  </tr>
+  <tr>
+    <td align="center" width="80px"><img width="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/MISRA_C_Logo.svg/675px-MISRA_C_Logo.svg.png?20221120083232" /><br></td>
+    <td align="center" width="80px"><img width="65px" src="https://www.qa-systems.com/wp-content/uploads/2020/03/DO-178-Qualification.png" /><br></td>
+    <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-plain-wordmark.svg" /><br></td>
+    <td align="center" width="80px"><img width="50px" src="https://www.jamasoftware.com/media/2025/02/logoicon-1200.png" /><br></td>
     <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" /><br></td>
+    <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain-wordmark.svg" /><br></td>
+    <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /><br></td>
+    <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" /><br></td>
+    <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /><br></td>
   </tr>
 </table>
 
@@ -70,14 +81,14 @@
         <img src="https://github.com/user-attachments/assets/87b11fa5-0a03-4436-b5ec-71549bb63293" width="300" />
       </a>
       <h3>RPS-Online</h3>
-      <p>🛠️ JavaScript, Socket.IO, Raspberry Pi, Glitch, Node.js, Firebase</p>
+      <p>🛠️ JavaScript, Socket.IO, Raspberry Pi, Node.js, Firebase</p>
     </td>
     <td align="center">
       <a href="https://github.com/sparecattil/Thermo-Sense">
         <img src="https://github.com/user-attachments/assets/6403fef4-9db7-42f4-915d-05ddaa8a624f" width="300" />
       </a>
       <h3>Thermo-Sense</h3>
-      <p>🛠️ C++, JavaScript, ESP32, Glitch, Firebase</p>
+      <p>🛠️ C++, JavaScript, ESP32, Firebase</p>
     </td>
   </tr>
   <tr>

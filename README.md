@@ -17,7 +17,7 @@
 <details>
   <summary><strong>📖 About Me</strong></summary>
   <p>
-    I am an University of Iowa alum who majored in Computer Science and Engineering with a focus on Machine Learning. Through my undergraduate coursework and professional experiences, I have developed strong technical skills in software engineering and machine learning, complemented by effective communication and interpersonal abilities. I currently work as a Software Engineer and am passionate about continuous learning and eager to contribute to innovative solutions while growing as a professional.
+    I am an University of Iowa alum who majored in Computer Science and Engineering with a focus on Machine Learning. Through my undergraduate coursework and professional experiences, I have developed strong technical skills in software engineering and machine learning, complemented by effective communication and interpersonal abilities. I am passionate about continuous learning and eager to contribute to innovative solutions while growing as a professional.
   </p>
 </details>
 

@@ -48,7 +48,7 @@
     <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" /><br></td>
-    <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" /><br></td>
+    <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /><br></td>
     <td align="center" width="80px"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" /><br></td>
   </tr>
 </table>
